@@ -1,0 +1,14 @@
+[user]
+	email = dmitri.nesterenko@gmail.com
+	name = dmitrinesterenko
+[push]
+	default = simple
+[alias]
+	add-commit = !git add -A && git commit
+[core]
+	editor = nano
+	autocrlf = true
+[help]
+	autocorrect = 1
+[color]
+	ui = auto
